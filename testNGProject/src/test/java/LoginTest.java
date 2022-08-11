@@ -4,6 +4,6 @@ public class LoginTest {
 
     @Test
     void login(){
-        System.out.println("Hello");
+        System.out.println("Hello************************");
     }
 }
